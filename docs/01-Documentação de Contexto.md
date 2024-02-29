@@ -10,7 +10,7 @@ O presente trabalho busca ser uma interface para atuar especificamente nesta lac
 
 ## Problema
 
-O problema que se busca resolver é trazer um melhor direcionamento de descontos em produtos e serviços para universitários, visto que existem muitas oportunidades para este público, porém, estas oportunidades muitas vezes não chegam ao conhecimento dos estudantes.
+Buscamos resolver a melhora e agilidade de comunicação entre o agente comunitário e o paciente, evitando a necessidade do deslocamento do agente, assim ele tendo uma forma remota de prestar auxílio em cidades grandes e pequenas de maneira mais ágil e concreta. trazendo também para o paciente uma maneira fácil de  compreender a sua medicação descritas de modo simplificada e de fácil entendimento, dando a possibilidade de comunicação entre as partes através da aplicação 
 
 ## Objetivos
 
